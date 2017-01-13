@@ -1,7 +1,6 @@
 
 import urllib2
 import json
-import MySQLdb
 
 
 hackerone = "https://hackerone.com/programs/search?query=bounties%3Ayes&sort=name%3Aascending&limit=1000"
